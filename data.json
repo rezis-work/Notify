@@ -1,0 +1,58 @@
+[
+  {
+    "author": "Mark Webber",
+    "time": "1m ago",
+    "type": "react to your component",
+    "content": "My first tournament today!",
+    "read": false,
+    "id": 1111
+  },
+  {
+    "author": "Angela Gray",
+    "time": "5m ago",
+    "type": "Followed you",
+    "content": "",
+    "read": false,
+    "id": 22222
+  },
+  {
+    "author": "Jacob Thompson",
+    "time": "1 day ago",
+    "type": "has joined your group",
+    "content": "Chess Club",
+    "read": false,
+    "id": 33333
+  },
+  {
+    "author": "Rizky Hasanuddin",
+    "time": "5 days ago",
+    "type": "sent you a private message",
+    "content": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+    "read": true,
+    "id": 444444
+  },
+  {
+    "author": "Kimberly Smith",
+    "time": "9 week ago",
+    "type": "commented on your picture",
+    "content": "./images/image-chess.webp",
+    "read": true,
+    "id": 54445445
+  },
+  {
+    "author": "Nathan Peterson",
+    "time": "1m ago",
+    "type": "react to your recent post",
+    "content": "5 end-game strategies",
+    "read": true,
+    "id": 632423
+  },
+  {
+    "author": "Anna kim",
+    "time": "2 week ago",
+    "type": "left the group",
+    "content": "Chess Club",
+    "read": true,
+    "id": 734324234
+  }
+]
